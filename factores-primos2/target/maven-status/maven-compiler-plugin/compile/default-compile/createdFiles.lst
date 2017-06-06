@@ -1,6 +1,3 @@
-ar\edu\uca\objetos\primos\Programa.class
-ar\edu\uca\objetos\primos\Formato.class
-ar\edu\uca\objetos\primos\Orden.class
-ar\edu\uca\objetos\primos\OrdenDescendiente.class
 ar\edu\uca\objetos\primos\FormatoQuiet.class
-ar\edu\uca\objetos\primos\ImprimeFactoresPrimos.class
+ar\edu\uca\objetos\primos\Programa.class
+ar\edu\uca\objetos\primos\FormatoDefault.class
